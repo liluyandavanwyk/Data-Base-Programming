@@ -9,7 +9,7 @@ class MyStore(QtGui.QWidget):
         QtGui.QWidget.__init__(self,parent)
         self.setGeometry(90,150,350,150)
         #(1050,150,350,150)
-        self.setWindowTitle("Mondlolo Super Market")
+        self.setWindowTitle("Luyanda Isaac Van Wyk Super Market")
         self.setPalette(QtGui.QPalette(QtGui.QColor("Yellow")))
 
         
